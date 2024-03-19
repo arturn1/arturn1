@@ -22,7 +22,7 @@
     <img align="center" alt="SQL SERVER" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-        src="https://avatars.githubusercontent.com/u/59577922?s=400&u=c1c7281cbd6d8d29f897a9a9add792bfa90a1285&v=4?width=676&height=676">
+        src="[https://avatars.githubusercontent.com/u/59577922?s=400&u=c1c7281cbd6d8d29f897a9a9add792bfa90a1285&v=4?width=676&height=676](https://media.licdn.com/dms/image/C4D03AQG3ybseAGX34g/profile-displayphoto-shrink_800_800/0/1660435611829?e=1716422400&v=beta&t=uCOvHgZigtVSgxzGXBTfhEBE4XxyXr2PNG5KbEFQAEw)">
 </div>
 
 ##
