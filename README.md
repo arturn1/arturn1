@@ -1,74 +1,173 @@
-## Olá, seja Bem-vindo!
+# 👋 Olá, seja bem-vindo!
 
-<div align="left">
+Sou **Artur Anderson Patrício**, **Gerente de Projetos** e **Software Architect**, apaixonado por criar produtos digitais escaláveis utilizando **.NET**, **Flutter**, **Azure** e **Inteligência Artificial**.
+
+Atualmente trabalho com arquitetura de software, modernização de aplicações, microsserviços, performance, cloud e desenvolvimento de produtos próprios.
+
+<div align="center">
   <a href="https://github.com/arturn1">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arturn1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturn1&layout=compact&langs_count=100&theme=tokyonight"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=arturn1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturn1&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="JAVASCRIPT LOGO" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TYPESCRIPT LOGO" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="REACT JS LOGO" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="CSHARP LOGO" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt=".NET FRAMWORK LOGO" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="AZURE" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-    <img align="center" alt="SQL SERVER" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-</div>
+---
 
-##
+## 🚀 Tecnologias
 
-<div>
-    <a href="mailto:artur.a.patricio@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/artur-anderson-patricio/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-<br />
+<div style="display: inline_block">
 
-### Experiência Profissional
-  Abaixo um pouco sobre minhas experiências profissionais:
+<img align="center" alt=".NET" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 
-  [<img height="25%" width="25%" alt="FI Group"
-      src="https://br.fi-group.com/wp-content/uploads/sites/9/2019/10/menu2.png" />](https://br.fi-group.com/)
+<img align="center" alt="C#" height="40" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-  **Gerente de Projetos** \
-  [**FI Group**](https://br.fi-group.com/)
-  Linguagens e Tecnologias: `.NET Core`, `.NET Framework`, `Azure`, `Javascript`, `Typescript`,`React`,`Python`,`SQL`
-  Responsabilidades: Responsável por definir e aplicar arquiteturas de projeto baseadas na solução de software
-  proposta junto ao time, implementar soluções de caching para performance, definição de padrões de código e
-  estratégias de implementação em produção.
+<img align="center" alt="Flutter" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
-<br />
+<img align="center" alt="Dart" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 
-  **Analista de Desenvolvimento Junior** \
-  [**FI Group**](https://br.fi-group.com/)
-  Linguagens e Tecnologias: `.NET Core`, `.NET Framework`, `Azure`, `Javascript`, `Typescript`,`React`,`Python`,`SQL`
-  Responsabilidades: Responsável por documentar e trabalhar em novos produtos no Brasil, migração de versão de
-  software, integrações e sustentação.
+<img align="center" alt="Azure" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 
-<br />
+<img align="center" alt="Docker" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
-  ### Formação Acadêmica
-  Abaixo um pouco sobre minha formação acadêmica:
+<img align="center" alt="Kubernetes" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
 
-  [<img height="60px" width="60px" alt="FI Group"
-       style="background: no-repeat center; background-size: cover"
-      src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />](https://www.fatecsp.br/)
+<img align="center" alt="SQL Server" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
-  **Análise e Desenvolvimento de Sistemas** \
-  [**FATEC São Paulo**](https://www.fatecsp.br/)
+<img align="center" alt="PostgreSQL" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
-  <br />
+<img align="center" alt="Redis" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+
+<img align="center" alt="NodeJS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="React" height="40" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="TypeScript" height="40" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<img align="center" alt="Git" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
 
+---
 
+# 💼 Experiência Profissional
+
+## Gerente de Projetos | Software Architect
+
+### FI Group
+
+**Principais responsabilidades**
+
+* Definição de arquitetura de soluções corporativas.
+* Liderança técnica de equipes multidisciplinares.
+* Desenvolvimento de APIs utilizando .NET.
+* Arquitetura baseada em microsserviços.
+* Modernização e migração de aplicações legadas.
+* Estratégias de caching e aumento de performance.
+* Integração com Azure Cloud.
+* Definição de padrões de desenvolvimento.
+* Revisão de código e apoio técnico ao time.
+* Planejamento técnico de novos produtos.
+* Integrações entre sistemas corporativos.
+* Sustentação e evolução contínua de aplicações críticas.
+
+**Stack**
+
+`.NET 8`
+`.NET Framework`
+`C#`
+`Azure`
+`React`
+`TypeScript`
+`JavaScript`
+`Node.js`
+`Python`
+`SQL Server`
+`Docker`
+`Git`
+
+---
+
+# 🚀 Projetos
+
+## 📚 ProNerd
+
+Plataforma educacional desenvolvida em Flutter com foco em estudantes e professores.
+
+### Principais funcionalidades
+
+* Compartilhamento de atividades
+* Organização por salas
+* Correção inteligente utilizando IA
+* Integração com Google Drive
+* Planos de assinatura
+* Backend em .NET
+* Serviços de IA centralizados
+
+---
+
+## ❤️ xReal
+
+Aplicativo de relacionamentos com foco em autenticidade.
+
+Objetivos do projeto:
+
+* Compatibilidade baseada em personalidade
+* Perfis reais
+* Fotos recentes
+* Arquitetura moderna
+* Microsserviços
+* Flutter + .NET + IA
+
+---
+
+# 🎓 Formação
+
+## FATEC São Paulo
+
+**Análise e Desenvolvimento de Sistemas**
+
+---
+
+# 📫 Contato
+
+<a href="mailto:artur.a.patricio@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/artur-anderson-patricio/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+## 📈 Objetivos
+
+Atualmente tenho interesse em projetos relacionados a:
+
+* Arquitetura de Software
+* Inteligência Artificial
+* Microsserviços
+* Cloud Computing
+* Flutter
+* .NET
+* Azure
+* Performance de aplicações
+* Engenharia de Produto
+* Desenvolvimento de SaaS
