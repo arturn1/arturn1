@@ -6,15 +6,6 @@ Sou **Artur Anderson Patrício**, **Software Architect** e **Project Manager**, 
 
 Atualmente trabalho com arquitetura de software, modernização de aplicações, microsserviços, cloud computing, performance e desenvolvimento de produtos digitais.
 
-<div align="center">
-
-<a href="https://github.com/arturn1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arturn1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturn1&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
 ---
 
 # 🚀 Tecnologias
